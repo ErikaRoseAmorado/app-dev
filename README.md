@@ -2,7 +2,7 @@
 
 
 
-| > blockquote Movies | Series |
+| > Movies | Series |
 | ----------- | ----------- |
 | Avengers | Our beloved summer |
 
