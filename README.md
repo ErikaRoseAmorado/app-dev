@@ -3,7 +3,7 @@
 | Movies | Series |
 | ----------- | ----------- |
 | Avengers | Our beloved summer |
-| Paragraph | Text |
+
 
 > My favorite movie/Series
 
