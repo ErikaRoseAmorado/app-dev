@@ -4,11 +4,15 @@
 | ----------- | ----------- |
 | Avengers | Our beloved summer |
 
+| Movies | Series |
+| ----------- | ----------- |
+| The nun | Vagabond |
 
-> My favorite movie/Series
+| Movies | Series |
+| ----------- | ----------- |
+| Spider-man| Vincenzo |
 
-1. our beloved summer
-2. vagabond
-3. vincenzo
+
+
 
 
