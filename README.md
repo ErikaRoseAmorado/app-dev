@@ -1,8 +1,9 @@
 # My favorite movie/series
-## H2
-### H3
-Bold	**bold text**
-Italic	*italicized text*
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 > My favorite movie/Series
 
