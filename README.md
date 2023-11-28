@@ -1,5 +1,5 @@
 
-> My fvorite movie/Series
+> My favorite movie/Series
 
 1. our beloved summer
 2. vagabond
