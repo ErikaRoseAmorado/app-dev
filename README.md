@@ -1,4 +1,4 @@
-# My favorite movie/series ![alt text](download.jpeg)
+# 🍿 My favorite movie/series 📽
 
 
 
