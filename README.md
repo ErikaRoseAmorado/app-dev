@@ -2,15 +2,15 @@
 
 
 
-| > Movies | Series |
+| > Movies | > Series |
 | ----------- | ----------- |
 | Avengers | Our beloved summer |
 
-| Movies | Series |
+| > Movies | > Series |
 | ----------- | ----------- |
 | The nun | Vagabond |
 
-| Movies | Series |
+| > Movies | > Series |
 | ----------- | ----------- |
 | Spider-man| Vincenzo |
 
