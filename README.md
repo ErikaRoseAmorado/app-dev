@@ -1,6 +1,4 @@
 
-**bold text**
-*italicized text*
 > My fvorite movie/Series
 
 1. our beloved summer
