@@ -1,6 +1,6 @@
 # My favorite movie/series
 
-| Syntax | Description |
+| >Movies | >Series |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
