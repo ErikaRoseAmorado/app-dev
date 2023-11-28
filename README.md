@@ -1,8 +1,8 @@
 # My favorite movie/series
 
-| >Movies | >Series |
+| Movies | Series |
 | ----------- | ----------- |
-| Header | Title |
+| Avengers | Our beloved summer |
 | Paragraph | Text |
 
 > My favorite movie/Series
