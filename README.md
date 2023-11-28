@@ -1,6 +1,7 @@
 # My favorite movie/series
 
 > blockquote
+
 | Movies | Series |
 | ----------- | ----------- |
 | Avengers | Our beloved summer |
